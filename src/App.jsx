@@ -42,7 +42,7 @@ export default function App() {
 
       <main className="main">{Page}</main>
 
-      <footer className="footer">© 2025 Shikor.org</footer>
+      <footer className="footer">© 2026 Shikor.org | Website crafted by STechNest</footer>
     </div>
   )
 }
